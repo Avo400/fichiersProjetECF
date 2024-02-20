@@ -1,0 +1,5 @@
+On ne peut livrer qu'un fichier qui fait office de "copie d'évaluation" pour ce projet ECF.
+Est-ce là un dernier challenge pour l'étudiant ou est-ce juste une simple d'erreur de votre part ? 
+Quoi qu'il en soit, voici donc un lien Github des livrables attendus de l'énoncé : https://github.com/Avo400/fichiersProjetECF
+Vous trouverez sur ce repository les livrables attendus en format .pdf ainsi que le fichier README.md et le fichier RestoreBDD_TableParTable.sql
+qui est "les fichiers de création et d’alimentation de la base de données de votre application web" comme vous l'avez mentionné dans l'énoncé.
